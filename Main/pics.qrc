@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/backgrounf">
+        <file>background.png</file>
+        <file>pku.png</file>
+        <file>pku1.png</file>
+        <file>PKU_Emoji/hz_01.jpg</file>
+    </qresource>
+    <qresource prefix="/emoji">
+        <file>PKU_Emoji/IMG.jpg</file>
+        <file>PKU_Emoji/IMG_001.jpg</file>
+        <file>PKU_Emoji/IMG_002.jpg</file>
+        <file>PKU_Emoji/IMG_003.jpg</file>
+        <file>PKU_Emoji/IMG_004.jpg</file>
+        <file>PKU_Emoji/IMG_005.jpg</file>
+        <file>PKU_Emoji/IMG_006.jpg</file>
+        <file>PKU_Emoji/IMG_007.jpg</file>
+        <file>PKU_Emoji/IMG_008.jpg</file>
+        <file>PKU_Emoji/IMG_009.jpg</file>
+        <file>PKU_Emoji/IMG_010.jpg</file>
+        <file>PKU_Emoji/IMG_011.jpg</file>
+        <file>PKU_Emoji/IMG_012.jpg</file>
+        <file>PKU_Emoji/IMG_013.jpg</file>
+        <file>PKU_Emoji/IMG_014.jpg</file>
+        <file>PKU_Emoji/IMG_015.jpg</file>
+        <file>PKU_Emoji/IMG_016.jpg</file>
+        <file>PKU_Emoji/IMG_017.jpg</file>
+        <file>PKU_Emoji/IMG_018.jpg</file>
+        <file>PKU_Emoji/IMG_019.jpg</file>
+        <file>PKU_Emoji/IMG_020.jpg</file>
+        <file>PKU_Emoji/IMG_021.jpg</file>
+        <file>circle.png</file>
+    </qresource>
+</RCC>
